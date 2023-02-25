@@ -1,5 +1,0 @@
-testing file
-
-updating file to check if changes are committed
-
-3rd update to check if git local and remote siltes are synced
